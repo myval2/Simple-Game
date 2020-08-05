@@ -1,0 +1,11 @@
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\bin\Debug\Simple.exe.config
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\bin\Debug\Simple.exe
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\bin\Debug\Simple.pdb
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\obj\Debug\Simple.csprojAssemblyReference.cache
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\obj\Debug\Simple.Form1.resources
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\obj\Debug\Simple.Properties.Resources.resources
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\obj\Debug\Simple.csproj.GenerateResource.cache
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\obj\Debug\Simple.csproj.CoreCompileInputs.cache
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\obj\Debug\Simple.exe
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\obj\Debug\Simple.pdb
+C:\Users\myval\OneDrive\Desktop\C# games\Simple\Simple\obj\Debug\Simple.Form2.resources
