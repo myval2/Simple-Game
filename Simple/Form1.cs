@@ -19,6 +19,7 @@ namespace Simple
         int playerSpeed = 10;
         int jumpSpeed = 10;
         int force = 8;
+        int score = 0;
         
 
         public Form1()
@@ -69,12 +70,12 @@ namespace Simple
             }
             if (jumping)
             {
-                jumpSpeed = -12;
+                jumpSpeed = -11;
                 force -= 1;
             }
             else
             {
-                jumpSpeed = 12;
+                jumpSpeed = 11;
             }
 
             foreach (Control x in this.Controls)
